@@ -21,7 +21,7 @@ jobs:
       uses: actions-js/profile-readme@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        username: William5553
+        username: bonnie10015
         template: "TEMPLATE.md"
 
 
